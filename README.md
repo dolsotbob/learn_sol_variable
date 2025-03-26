@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
+
+# TransferExample deployed: 
+https://kairos.kaiascan.io/address/0x1123142bb9695698cec32e4c79637a9acedd697d?tabId=overview&page=1
